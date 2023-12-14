@@ -3,7 +3,7 @@
 - 🌱 I’m currently doing a master in DevOps with TU Dublin 
 - 💞️ I’m looking to collaborate on any projects thatwould alown me to expand my knowlage and test my skils.
 - 🐝 In my free time i take care of two beehives 🐝🐝🐝
-- 📫 You can reach me by a email plopana@yahoo.com
+- 📫 You can reach me by a email 
 
 <!---
 Bogo80/Bogo80 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
